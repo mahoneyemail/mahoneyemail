@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahoneyemail
-- 👀 I’m interested in getting a tech job
-- 🌱 I’m currently learning different coding languages
+- 👀 I’m interested in getting a tech job.
+- 🌱 I’m currently learning different coding languages.
 - ⚡ Fun fact: I like to drive miniature horses.
 
 <!---
